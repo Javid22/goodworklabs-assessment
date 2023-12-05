@@ -34,7 +34,3 @@ app.get('/get_meta_data/:category/:name', (req, res) => {
 app.listen(port, () => {
   console.log(`Server is listening on port ${port}`);
 });
-
-
-//git link 
-https://github.com/Javid22/goodworklabs-assessment.git
