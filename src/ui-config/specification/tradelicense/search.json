@@ -1,0 +1,21 @@
+{
+    "applytradeName": {
+        "type": "seacchField",
+        "props": {
+        "label": "seach name",
+        "required": true
+        }
+    },
+    "applyTradeType": {
+        "type": "Select",
+        "props": {
+        "label": "seach type",
+            "option": [
+                {
+                "name": "goods",
+                "code": "goods"
+                }
+            ]
+        }
+    }
+}
